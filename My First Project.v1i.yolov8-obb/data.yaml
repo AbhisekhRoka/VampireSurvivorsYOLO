@@ -1,0 +1,9 @@
+names:
+- '0'
+- '1'
+- '2'
+- '3'
+nc: 4
+path: C:/Users/ashur/PyCharmMiscProject/My First Project.v1i.yolov8-obb
+train: train/images
+val: train/images
