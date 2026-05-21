@@ -4,6 +4,6 @@ names:
 - '2'
 - '3'
 nc: 4
-path: C:/Users/ashur/PyCharmMiscProject/My First Project.v1i.yolov8-obb
+path: C:/Users/ashur/PyCharmMiscProject/yolov8-obb_trainData
 train: train/images
 val: train/images
